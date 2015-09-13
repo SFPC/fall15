@@ -21,7 +21,7 @@ Allison's class: 9.22, 9.29, 10.6, 10.13 (Columbus Day), 10.20, 10.27, 11.3 (Ele
 
 
 
-###Caitlin Morris : Physical computing 
+###Caitlin Morris : [Physical Computing ](https://github.com/caitlinmorris/sfpc-pcomp-2015)
 
  
 
