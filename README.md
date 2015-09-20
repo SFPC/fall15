@@ -29,7 +29,7 @@ Caitlin's class: 9.16, 9.24, 10.15, 10.16, 10.29, 10.30, 11~(tbd)
 
  
 
-###Ramsey Nasser : [Radical Computer Science](https://github.com/nasser/sfpc-2015)
+###Ramsey Nasser : [Radical Computer Science](http://nasser.github.io/sfpc/)
 
 Ramsey's class: 9.23, 9.30, 10.7, 10.14, 10.21, 10.28, 11.4, 11.11 (Veteran's Day) 
  
