@@ -48,7 +48,7 @@ What is the art history that's relevant to my art?
 What is critical theory and why is it important?
 Where is my audience and my community?
 
-###Zach Lieberman : Recreating the past
+###Zach Lieberman : [Recreating the past](https://github.com/ofZach/recreatingThePast)
 
 
 
